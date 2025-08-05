@@ -31,7 +31,8 @@ export default function Page() {
           Redirecting to Google sign-in...
         </h1>
         <p className="text-gray-600">
-          Please wait while we redirect you to Google's authentication page.
+          Please wait while we redirect you to Google&apos;s authentication
+          page.
         </p>
       </div>
     </div>
