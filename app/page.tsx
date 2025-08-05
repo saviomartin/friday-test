@@ -1,8 +1,8 @@
 import React from "react";
 
-type Props = {};
+type Props = Record<string, never>;
 
-const Page = (props: Props) => {
+const Page = ({}: Props) => {
   return <div>Page</div>;
 };
 
